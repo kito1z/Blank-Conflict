@@ -1,1 +1,1 @@
-some_ip
+eu.freegamehost.xyz:2955
